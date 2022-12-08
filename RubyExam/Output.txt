@@ -1,0 +1,15 @@
+Rock concerts:
+#<Concert:0x00000209760529f0 @genre="Rock", @date="2022-12-08", @price=100, @performers=["Metallica", "Slipknot"], @location="Olimpiyskiy">
+
+Concerts on 2022-12-09:
+#<Concert:0x0000020976051cd0 @genre="Pop", @date="2022-12-09", @price=150, @performers=["Ariana Grande", "Selena Gomez"], @location="VDNH">
+
+Expensive concerts:
+#<Concert:0x0000020976051960 @genre="Rap", @date="2022-12-10", @price=200, @performers=["Eminem", "Travis Scott"], @location="Olimpiyskiy">
+
+Concerts with Eminem:
+#<Concert:0x0000020976051960 @genre="Rap", @date="2022-12-10", @price=200, @performers=["Eminem", "Travis Scott"], @location="Olimpiyskiy">
+
+Concerts at Olimpiyskiy:
+#<Concert:0x00000209760529f0 @genre="Rock", @date="2022-12-08", @price=100, @performers=["Metallica", "Slipknot"], @location="Olimpiyskiy">
+#<Concert:0x0000020976051960 @genre="Rap", @date="2022-12-10", @price=200, @performers=["Eminem", "Travis Scott"], @location="Olimpiyskiy">
